@@ -1,4 +1,4 @@
-# E-commerce_Store
+++++++# E-commerce_Store
 
 A simple and responsive e-commerce platform created using Node.js, Express.js, HTML, CSS, and JavaScript.
 
@@ -16,8 +16,8 @@ A simple and responsive e-commerce platform created using Node.js, Express.js, H
 
 ## Installation and Setup
 1. Clone the repository:
-   -git clone https://github.com/Hetvi-Gohel-312/ecommerce-website.git
-   -cd ecommerce-website
+   - git clone https://github.com/Hetvi-Gohel-312/ecommerce-website.git
+   - cd ecommerce-website
 
 2. Install dependencies:
    npm install
